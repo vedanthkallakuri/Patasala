@@ -1,0 +1,49 @@
+:root{
+    --black: #000000;
+    --white: #ffffff;
+    --border-grey: #e6e6e6;
+    --patasala-blue: #0abde3;
+    --red: #720404;
+    --light-blue: #86cdff;
+    --dark-blue: #305090;
+    --dark-green: #03391f;
+    --update-color: #6E6E6E;
+}
+
+
+$page-header-tc: var(--black);
+$page-header-bgc: var(--white);
+
+$upload-img-bgc: var(--white);
+$upload-img-bc: var(--black);
+$upload-header-tc: var(--black);
+
+$csv-img-bgc: var(--dark-green);
+$csv-img-bc: var(--dark-green);
+$csv-header-tc: var(--white);
+
+$table-row-headers-bgc: var(--dark-blue);
+$table-header-text-color: var(--white);
+$table-row-bc: var(--border-grey);
+
+$add-song-table-value-bc: var(--black);
+$add-song-table-value-bgc: var(--white);
+$add-song-table-value-tc: var(--black);
+
+$table-value-tc: var(--black);
+
+$table-value-custom-tc: var(--gold);
+$table-value-custom-bc: var(--gold);
+
+$table-value-preloaded-tc: var(--grey);
+$table-value-preloaded-bc: var(--grey);
+$table-value-preloaded-bgc: var(--grey);
+
+$update-row-btn-bgc: var(--white);
+$update-row-btn-bc: var(--black);
+$update-row-btn-tc: var(--black);
+
+
+$add-row-btn-bgc: var(--white);
+$add-row-btn-tc: var(--patasala-blue);
+$add-row-btn-bc: var(--patasala-blue);
