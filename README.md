@@ -1,5 +1,4 @@
-<img width="146" alt="Screenshot 2025-01-16 at 2 24 48 PM" src="https://github.com/user-attachments/assets/7474760b-3c67-4556-ae33-8741e0672ad0" />
-
+![Screenshot_2025-01-16_at_2 34 33_PM-removebg-preview](https://github.com/user-attachments/assets/aa87518f-f56d-4fa3-940d-3dd35b6cb287)
 Patasala is a music organization tool for music student training in Indian classical music. It is the first musical progress tracking platform tailored for the Indian classical arts with preloaded options for hundreds of ragas and talas, opportunities to add and customize ragas and talas, and easily share musical progress with teachers. For the millions of practicioners of Indian Classical music, this tool is guaranteed to be a gamechanger.
 
 ## Tech Stack
